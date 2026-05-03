@@ -1,9 +1,10 @@
-# Portfolio Project – Stage 1 Report
+# Portfolio Project – Report
 
 # Project Name: GuidHéHo
 
 ---
 
+# Stage 1
 # 1. Team Formation Overview
 
 ## Team Members
@@ -182,7 +183,12 @@ Functional prototype ready before final presentation deadline.
 
 ---
 
-# 8. Conclusion
+# Stage 2
+# 1. Gantt Diagram
+
+![Diagramme de Gantt](Diagramme-de-Gantt-GuidHéHo.png)
+
+# Conclusion
 
 GuidHéHo was selected because it combines technical realism, business potential and strong portfolio value. The concept offers enough complexity to demonstrate full-stack capabilities while remaining realistic for an MVP timeline.
 
