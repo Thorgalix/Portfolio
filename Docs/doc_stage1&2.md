@@ -1,20 +1,20 @@
 # Portfolio Project – Report
 
-# Project Name: GuidHéHo
+## Project Name: GuidHéHo
 
 ---
 
-# Stage 1
-# 1. Team Formation Overview
+## Stage 1
+### 1. Team Formation Overview
 
-## Team Members
+#### Team Members
 
 | Name | Role |
 |------|------|
 | Lucas Podevin | Full-stack Developer |
 | Mahmoud Bouate | Full-stack Developer |
 
-## Collaboration Strategy
+#### Collaboration Strategy
 
 To ensure efficient teamwork and clear communication, the team decided to use:
 
@@ -22,115 +22,102 @@ To ensure efficient teamwork and clear communication, the team decided to use:
 - GitHub for version control and collaborative development.
 - GitHub Projects for task organization, backlog management and sprint tracking.
 
-## Team Values
+#### Team Values
 
-- Transparent communication  
-- Shared decision making  
-- Equal workload distribution  
-- Fast feedback cycles  
-- Mutual code review before merge  
+- Transparent communication
+- Shared decision making
+- Equal workload distribution
+- Fast feedback cycles
+- Mutual code review before merge
 
----
+### 2. Research and Brainstorming
 
-# 2. Research and Brainstorming
+#### Idea: GuidHéHo
 
-## Idea: GuidHéHo
-
-### Concept
+##### Concept
 
 A platform connecting travelers with independent local guides offering themed city tours.
 
 Examples:
 
-- Hidden Paris streets  
-- Food tours  
-- Historical tours  
-- Nightlife experiences  
-- Architecture walks  
+- Hidden Paris streets
+- Food tours
+- Historical tours
+- Nightlife experiences
+- Architecture walks
 
-### Existing Competitors Reviewed
+##### Existing Competitors Reviewed
 
-- guideyourtrip.com  
-- find.guide  
-- so-guide.com  
+- guideyourtrip.com
+- find.guide
+- so-guide.com
 
-### Market Observation
+##### Market Observation
 
 Existing platforms often have limited UX, poor filtering options, or lack trust-building features.
 
----
+### 3. Selected MVP Concept
 
-# 3. Selected MVP Concept
-
-## GuidHéHo
+#### GuidHéHo
 
 A web platform where users can search and book local independent guides based on city, date, language and interests.
 
----
+#### Why This Idea Was Selected
 
-## Why This Idea Was Selected
-
-### Feasibility
+##### Feasibility
 
 The project matches the team’s current technical skills:
 
-- Python backend development  
-- SQL databases  
-- Web frontend development  
-- API design  
+- Python backend development
+- SQL databases
+- Web frontend development
+- API design
 
-### Innovation
+##### Innovation
 
 Unlike generic guide platforms, GuidHéHo focuses on:
 
-- Themed experiences  
-- Trust indicators  
-- Simpler booking flow  
-- Better search filters  
+- Themed experiences
+- Trust indicators
+- Simpler booking flow
+- Better search filters
 
-### Alignment With Goals
+##### Alignment With Goals
 
 This project allows the team to demonstrate key diploma requirements:
 
-- Secure authentication  
+- Secure authentication
 - Relational database design
-- Frontend integration  
-- Real-world business logic  
+- Frontend integration
+- Real-world business logic
 
----
+### 4. MVP Scope
 
-# 4. MVP Scope
+#### Included in MVP
 
-## Included in MVP
-
-1. User Registration / Secure Login  
-2. Guide Registration / Profile Creation  
+1. User Registration / Secure Login
+2. Guide Registration / Profile Creation
 3. Search filters:
-   - Date  
-   - City  
-   - Theme  
-   - Language  
-   - Number of people  
+   - Date
+   - City
+   - Theme
+   - Language
+   - Number of people
 
-4. Guide profile page  
-5. Profile picture upload  
-6. Booking request contact form  
-7. Availability calendar  
-8. Reviews / ratings system  
+4. Guide profile page
+5. Profile picture upload
+6. Booking request contact form
+7. Availability calendar
+8. Reviews / ratings system
 
----
+#### Out of Scope (Future Versions)
 
-## Out of Scope (Future Versions)
-
-- Online payments  
-- Monument selection assistant  
-- Travel blog  
+- Online payments
+- Monument selection assistant
+- Travel blog
 - Certification Badges
-- 
 
----
-
-# 5. Technical Stack
+### 5. Technical Stack
 
 | Layer | Technology |
 |------|------------|
@@ -140,9 +127,7 @@ This project allows the team to demonstrate key diploma requirements:
 | Maps | Mapbox |
 | Version Control | GitHub |
 
----
-
-# 6. Risks Identified
+### 6. Risks Identified
 
 | Risk | Impact | Mitigation |
 |------|--------|-----------|
@@ -152,43 +137,39 @@ This project allows the team to demonstrate key diploma requirements:
 | Authentication security | High | Use Django built-in auth system |
 | Team coordination | Low | Weekly planning meetings |
 
----
+### 7. SMART Goals
 
-# 7. SMART Goals
-
-## Specific
+#### Specific
 
 Launch a working tourism guide marketplace MVP.
 
-## Measurable
+#### Measurable
 
 At least:
 
-- 2 user roles  
-- Search working  
-- Booking request flow  
-- Review system active  
+- 2 user roles
+- Search working
+- Booking request flow
+- Review system active
 
-## Achievable
+#### Achievable
 
 Stack already known by both members.
 
-## Relevant
+#### Relevant
 
 Matches diploma technical expectations.
 
-## Time-bound
+#### Time-bound
 
 Functional prototype ready before final presentation deadline.
 
----
-
-# Stage 2
-# 1. Gantt Diagram
+## Stage 2
+### 1. Gantt Diagram
 
 ![Diagramme de Gantt](Diagramme-de-Gantt-GuidHéHo.png)
 
-# Conclusion
+## Conclusion
 
 GuidHéHo was selected because it combines technical realism, business potential and strong portfolio value. The concept offers enough complexity to demonstrate full-stack capabilities while remaining realistic for an MVP timeline.
 
